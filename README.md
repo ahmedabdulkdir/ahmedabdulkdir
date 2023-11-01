@@ -25,7 +25,9 @@
 
 | <a href="https://github.com/ahmedabdlkdir"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedabdlkdir&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=radical" alt="GitHub Streak" /></a> | <a href="https://github.com/ahmedabdlkdir"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ahmedabdlkdir&layout=compact&card_width=448&title_color=a0c334&text_color=deff8b&bg_color=120,212121,6252C2" alt="GithubTop Languages" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
+<!---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedabdlkdir&bg_color=1a1b27&color=38bda2&line=70a5fd&point=8164a6&area=true&hide_border=true)](https://github.com/ahmedabdlkdir/github-readme-activity-graph)
+-->
+
 
 
